@@ -1,16 +1,44 @@
-# React + Vite
+# 🛒 E-Commerce Store (React JS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and beginner-friendly E-Commerce frontend project built using React JS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+👉 [Click here to view live project](https://loquacious-sopapillas-35bcd2.netlify.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ➕ Add Product (Name, Image, Description, Price)
+- 📦 Display products dynamically using React map()
+- 🗑 Delete product from list
+- ⚡ Real-time state updates using React Hooks
+
+---
+
+## 🛠 Tech Stack
+
+- React JS
+- JavaScript (ES6)
+- HTML
+
+---
+
+## 📚 What I Learned
+
+- useState Hook in React
+- Handling form inputs
+- Array operations (Add / Delete)
+- Dynamic rendering with map()
+- Basic CRUD operations in frontend
+
+---
+## 👨‍💻 Author
+Anas Javed
+
+---
+## ⭐ Note
+This is a beginner-level project created for learning React fundamentals and state management.
