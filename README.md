@@ -1,44 +1,45 @@
-# 🛒 E-Commerce Store (React JS)
+# 🛍️ React E‑Commerce Store
 
-A simple and beginner-friendly E-Commerce frontend project built using React JS.
+A modern, responsive product catalog web application built with React, Tailwind CSS, and React Router. Users can browse products, view detailed information, and authenticate with a demo login.
 
----
-
-## 🚀 Live Demo
-
-👉 [Click here to view live project](https://loquacious-sopapillas-35bcd2.netlify.app/)
+🔗 **Live Demo:** [e-commerce-store-in-react-js.vercel.app](https://e-commerce-store-in-react-js.vercel.app/)
 
 ---
 
 ## ✨ Features
 
-- ➕ Add Product (Name, Image, Description, Price)
-- 📦 Display products dynamically using React map()
-- 🗑 Delete product from list
-- ⚡ Real-time state updates using React Hooks
+- 🔐 **Demo Authentication** – Simple login/logout using React Context API
+- 🧭 **Client‑Side Routing** – Navigate between dashboard and product details pages with React Router
+- 🎨 **Modern UI** – Tailwind CSS for fast, custom styling (dark theme with cyan/teal accents)
+- 🔍 **Product Search** – Filter products by name instantly
+- 📱 **Fully Responsive** – Works on desktop, tablet, and mobile devices
+- 🛒 **Product Details** – View full description, price, and category for each product
+- ⚡ **Optimized Performance** – Built with Vite for fast development and production builds
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 
-- React JS
-- JavaScript (ES6)
-- HTML
+| Technology | Purpose |
+|------------|---------|
+| React 18 | UI components & hooks |
+| React Router DOM v6 | Page routing |
+| Tailwind CSS | Styling |
+| Context API | Authentication state |
+| Vite | Build tool & dev server |
+
+---
+
+## 📄 License
+This project is for educational purposes. No official license is required.
 
 ---
 
-## 📚 What I Learned
-
-- useState Hook in React
-- Handling form inputs
-- Array operations (Add / Delete)
-- Dynamic rendering with map()
-- Basic CRUD operations in frontend
+## 🙏 Acknowledgments
+Product images from Unsplash
+Icons and inspiration from various open‑source e‑commerce demos
 
 ---
-## 👨‍💻 Author
-Anas Javed
 
----
-## ⭐ Note
-This is a beginner-level project created for learning React fundamentals and state management.
+## Made with ❤️ by Anas Javed
+
